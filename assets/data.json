@@ -26,8 +26,8 @@
       "name": "novo",
       "title": "For the Raymis",
       "subtitle": "oh, yeah",
+      "mainImage" : "proj1-img-01.png",
       "images": [
-        "proj1-img-01.png",
         "proj1-img-02.png",
         "proj1-img-03.png",
         "proj1-img-04.png"
@@ -39,8 +39,8 @@
       "name": "project2",
       "title": "For the Raymis 2",
       "subtitle": "oh, yeah",
+      "mainImage" : "proj2-img-01.png",
       "images": [
-        "proj2-img-01.png",
         "proj2-img-02.png",
         "proj2-img-03.png",
         "proj2-img-04.png"
@@ -52,8 +52,8 @@
       "name": "project3",
       "title": "For the Raymis 3",
       "subtitle": "oh, yeah",
+      "mainImage" : "proj1-img-01.png",
       "images": [
-        "proj1-img-01.png",
         "proj3-img-02.png",
         "proj3-img-03.png",
         "proj3-img-04.png"
@@ -65,8 +65,8 @@
       "name": "project4",
       "title": "For the Raymis 4",
       "subtitle": "oh, yeah",
+      "mainImage" : "",
       "images": [
-  
       ],
       "description": "lorem 4"
     }
