@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.7d0629a5704cac9f10d31cb48fe0fb08.js"
+  "/precache-manifest.ca8692e72333c95d8bdfc9478933b6b8.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "prospery-dashboard"});
