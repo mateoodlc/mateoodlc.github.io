@@ -14,10 +14,10 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/app/precache-manifest.19eeaa4c515ac4d79e35c1d6610a8faa.js"
+  "/precache-manifest.b5a9c086a31b5e0b8d02e5c467f5bbcb.js"
 );
 
-workbox.core.setCacheNameDetails({prefix: "vue-boilerplate"});
+workbox.core.setCacheNameDetails({prefix: "prospery-dashboard"});
 
 self.addEventListener('message', (event) => {
   if (event.data && event.data.type === 'SKIP_WAITING') {
